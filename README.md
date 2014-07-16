@@ -14,7 +14,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/h
     - [E-Books](#e-books)
     - [Twitter](#twitter)
     - [Websites](#websites)
-        - [Tutorials](#tutorials)
+    - [Tutorials](#tutorials)
 
 ## AngularJS
 *Origianl Resources*
