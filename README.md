@@ -39,7 +39,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/h
 * [AngularJS in 60-ish Minutes](http://weblogs.asp.net/dwahlin/angularjs-in-60-ish-minutes-the-ebook)
 * [Practical AngularJS](https://leanpub.com/Practical_AngularJS)
 
-## Twitter
+## Twitter 
 
 * [@AngularJS_News](https://twitter.com/AngularJS_News)
 * [@AngularJobs](https://twitter.com/AngularJobs)
